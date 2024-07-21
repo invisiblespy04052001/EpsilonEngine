@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name":" JAKET BLOUSON ",
+        "price": 30.64,
+        "image": "image/pink-removebg-preview.png"
+    },
+    {
+        "id": 2,
+        "name":" MINI MESSENGER BAG",
+        "price": 250,
+        "image": "image/bag-removebg-preview.png"
+    },
+    {
+        "id": 3,
+        "name":" TWI OVERSIZED SHIRT",
+        "price": 290,
+        "image": "image/overshirt-removebg-preview.png"
+    },
+    {
+        "id": 4,
+        "name":" BELININE JESSIE",
+        "price": 200,
+        "image": "image/lsovershirt-removebg-preview.png"
+    },
+    {
+        "id": 5,
+        "name":" OVERSHIRT JACKET",
+        "price": 300,
+        "image": "image/WhatsApp_Image_2024-06-29_at_11.59.43_43637cd1-removebg-preview.png"
+    },
+    {
+        "id": 6,
+        "name":" BEANIE HAT",
+        "price": 200,
+        "image": "image/beanie-removebg-preview.png"
+    },
+    {
+        "id": 7,
+        "name":" NECK FINE CARDIGAN",
+        "price": 200,
+        "image": "image/cardigan-removebg-preview.png"
+    },
+    {
+        "id": 8,
+        "name":" PULLOVER OVERSIZED  HOODIE",
+        "price": 200,
+        "image": "image/hoodie-removebg-preview.png"
+    },
+    {
+        "id": 9,
+        "name":" WOMEN TOPI UV",
+        "price": 200,
+        "image": "image/topi-removebg-preview.png"
+    },
+    {
+        "id": 10,
+        "name":" ZIP FLEECE",
+        "price": 200,
+        "image": "image/biru-removebg-preview.png"
+    },
+    {
+        "id": 11,
+        "name":" FLANNEL KOTAK",
+        "price": 200,
+        "image": "image/WhatsApp_Image_2024-06-29_at_15.37.06_dd724919-removebg-preview.png"
+    },
+    {
+        "id": 12,
+        "name":" CREWNECK FAJRUL",
+        "price": 200,
+        "image": "image/WhatsApp_Image_2024-06-29_at_16.42.22_0c51e4a4-removebg-preview.png"
+    }
+
+]
